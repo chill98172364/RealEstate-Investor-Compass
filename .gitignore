@@ -1,4 +1,7 @@
+# personalized
 output/
+settings.json
+.env
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
