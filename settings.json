@@ -1,0 +1,14 @@
+{
+    "Email": {
+        "From" : "example@gmail.com",
+        "Recipients" : [
+            "investor1@gmail.com",
+            "investor2@gmail.com"
+        ]
+    },
+    "SMTP": {
+        "Server": "smtp.gmail.com",
+        "Port": 587,
+        "User": "example@gmail.com"
+    }
+}
